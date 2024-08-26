@@ -14,5 +14,5 @@ I'm passionate about Data Science, Machine Learning, and AI, with expertise in P
 📊 Data Science: Data analysis, data visualization, statistical modeling 📉
 🧠 Machine Learning: Supervised and unsupervised learning, model evaluation, feature engineering 🔬
 🤖 AI: Deep learning, neural networks 💡
-💻 Programming: Python, R, SQL 📜
+💻 Programming: Python, SQL, Java 📜
 🛠️ Tools: Jupyter, Pandas, Scikit-Learn, TensorFlow, Keras 🔧
